@@ -1,6 +1,6 @@
-# Start the Airflow environment with run_docker
+Start the Airflow environment with run_docker
 
-#config run_config
+config run_config
 
 python ETl --> folder ETL
 
